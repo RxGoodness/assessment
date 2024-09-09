@@ -59,6 +59,8 @@ yarn test
 or
 npm run test
 
+Here is the link to the Postman Api Documentation (with sample responses)
+#### https://documenter.getpostman.com/view/23430753/2sAXjRXA3F 
 
 Project Structure
 
